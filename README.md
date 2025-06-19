@@ -13,3 +13,39 @@ Role: MERN Stack Developer
 Stack: React.js | JavaScript | HTML5 | CSS3
 Focus: UI/UX, Interactive Web Apps
 Currently Learning: Next.js, Redux Toolkit
+
+### 💻 Languages Programming:
+C++, JavaScript
+
+---
+
+### 📌 I’m currently learning:
+- React.js  
+- API Integration  
+- Next.js (soon)
+
+---
+
+### 🛠️ Software & Tools:
+- VS Code  
+- Figma  
+- Git & GitHub  
+- Postman  
+
+---
+
+### 🖥️ Operating Systems:
+- Windows  
+- Linux (basic)
+
+---
+
+### 🔗 Contact Me:
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- Email: [aliaa.raffat@example.com](mailto:aliaa.raffat@example.com)
+
+---
+
+<p align="center">
+  <img src="https://github.com/alyaaraffat/alyaaraffat/blob/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
+</p>
