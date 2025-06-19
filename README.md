@@ -41,5 +41,5 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="400" alt="Gaming gif" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=16F7C4&center=true&vCenter=true&width=500&lines=Hi+I'm+Alyaa+Raffat;Frontend+Developer+%F0%9F%92%BB;Loves+React+and+Clean+Designs;Welcome+to+My+Profile!+👩‍💻" alt="Typing SVG" />
 </p>
