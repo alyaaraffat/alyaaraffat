@@ -9,7 +9,7 @@
 ### 🌟 About Me
 
 - 🌱 Currently learning: **Next.js**, **API integration**, **Redux Toolkit**
-- 💬 Ask me about: **React**, **JavaScript**, and anything frontend!
+- 💬 Ask me about: **React**, **JavaScript**, and anything!
 - ☕ Fun fact: I code better with coffee
 - 📫 Email: **alyaaraffat22@gmail.com**
 
