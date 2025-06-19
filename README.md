@@ -29,11 +29,6 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,mongodb,git,github,figma,vscode,postman" alt="Tools" />
 </p>
 
----
-
-### 🖥️ Operating Systems
-- 🪟 Windows  
-- 🐧 Linux (basic usage)
 
 ---
 
