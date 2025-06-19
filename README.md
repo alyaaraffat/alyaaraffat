@@ -41,8 +41,16 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🏆 My GitHub Achievements
 
 <p align="center">
-  <img src="https://github.com/alyaaraffat/alyaaraffat/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alyaaraffat&theme=algolia&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alyaaraffat&theme=react-dark" />
 </p>
