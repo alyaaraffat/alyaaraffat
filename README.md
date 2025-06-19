@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Alyaa Raffat</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Gif" />
-</p>
-
-<p align="center">
   💻 Frontend Developer | MERN Stack Developer
 </p>
 
