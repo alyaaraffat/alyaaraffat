@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  💻 Frontend Developer | React Enthusiast | MERN Stack Learner
+  💻 Frontend Developer | MERN Stack Developer
 </p>
 
 ---
