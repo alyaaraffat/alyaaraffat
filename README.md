@@ -1,50 +1,53 @@
-<h1 align="center">Hello , I'm Alyaa Raffat</h1>
+<h1 align="center">Hi there 👋, I'm Alyaa Raffat</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Gif" />
 </p>
 
 <p align="center">
-  <strong>Frontend Developer | MERN Stack | Always Learning</strong>
+  💻 Frontend Developer | React Enthusiast | MERN Stack Learner
 </p>
 
+---
 
+### 🌟 About Me
+
+- 🌱 Currently learning: **Next.js**, **API integration**, **Redux Toolkit**
+- 💬 Ask me about: **React**, **JavaScript**, and anything frontend!
+- ☕ Fun fact: I code better with coffee
+- 📫 Email: **alyaaraffat22@gmail.com**
 
 ---
 
-🌱 I’m currently diving deeper into **Next.js**, **API integration**, and **Redux Toolkit**  
-💬 Ask me about **React**, **JavaScript**, or how I balance tech with coffee ☕  
-📫 Contact me: **alyaaraffat22@gmail.com**  
-
----
-
-### 💻 Languages I Code With:
-- JavaScript  
-- C++  
-
----
-
-### 📌 Currently Learning:
-- Next.js  
-- Redux Toolkit  
-- TensorFlow (for AI stuff 🤖)
-
----
-
-### 🛠️ Tools I Use:
-- VS Code  
-- Postman  
-- Git & GitHub  
-- Figma (a bit, not a designer 😉)
-
----
-
-### 🖥️ Operating Systems:
-- Windows  
-- Linux (just enough to survive 🐧)
-
----
+### 🧠 Languages & Tools I Use
 
 <p align="center">
-  <img src="https://github.com/alyaaraffat/alyaaraffat/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,html,css" alt="Languages" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,mongodb,git,github,figma,vscode,postman" alt="Tools" />
+</p>
+
+---
+
+### 🖥️ Operating Systems
+- 🪟 Windows  
+- 🐧 Linux (basic usage)
+
+---
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alyaaraffat&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyaaraffat&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/alyaaraffat/alyaaraffat/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
