@@ -29,6 +29,10 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,mongodb,git,github,figma,vscode,postman" alt="Tools" />
 </p>
 
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="250" />
+</p>
 
 ---
 
@@ -39,9 +43,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyaaraffat&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
----
-<p align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="250" />
-</p>
+
 
 
