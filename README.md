@@ -1,9 +1,12 @@
 <h1 align="center">Alyaa Raffat</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=16C784&center=true&vCenter=true&multiline=true&width=500&lines=Frontend+Developer+%7C+MERN+Stack+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animation" />
 </p>
-<br>
+
+<p align="center">
+  <strong>Frontend Developer | MERN Stack | Always Learning</strong>
+</p>
 
 
 
