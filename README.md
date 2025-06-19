@@ -1,7 +1,8 @@
 <h1 align="center"> Alyaa Raffat</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=16C784&center=true&vCenter=true&multiline=true&width=435&lines=Frontend+Developer+%7C+MERN+Stack;React+%2F+Next.js+Lover;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=16C784&center=true&vCenter=true&multiline=true&width=435&lines=Frontend+Developer+%7C+MERN+Stack+ Developer;Always+Learning+Something+New" alt="Typing SVG" />
 </p><br>
+
 
 ---
 
