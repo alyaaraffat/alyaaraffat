@@ -40,17 +40,6 @@
 </p>
 
 ---
-
-### 🏆 My GitHub Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alyaaraffat&theme=algolia&no-bg=true&margin-w=10" />
-</p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alyaaraffat&theme=react-dark" />
+  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="400" alt="Gaming gif" />
 </p>
