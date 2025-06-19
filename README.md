@@ -34,14 +34,6 @@
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="250" />
 </p>
 
----
-
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alyaaraffat&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyaaraffat&layout=compact&theme=tokyonight" width="48%" />
-</p>
 
 
 
